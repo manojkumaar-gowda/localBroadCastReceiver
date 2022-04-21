@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">localBroadCastReceiver</string>
+    <string name="airplane_mode">Airplane Mode!</string>
+</resources>
